@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "TMP36GRTZ")(type "KiCad")(uri "${KIPRJMOD}/library/KiCAD/2022-09-03_20-55-42/footprints.pretty")(options "")(descr ""))
+  (lib (name "2022-09-03_20-55-42")(type "KiCad")(uri "${KIPRJMOD}/library/KiCAD/2022-09-03_20-55-42")(options "")(descr ""))
+)
